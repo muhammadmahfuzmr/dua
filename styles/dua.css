@@ -20,6 +20,7 @@ div{
 p{
     width: 50vw;
     text-align: center;
+    background-color: rgba(60, 120, 230, 0.712);
     color: rgb(17, 14, 14);
     font-size: xx-large;
 }
