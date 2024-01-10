@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+div{
+    margin: 0;
+    padding: 0;
+    border: 5px solid none;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/kaba.jpg'), url('../images/madina.png'), url('../images/sijda.png'), url('../images/quaran.avif');
+    background-repeat: no-repeat;
+    background-position: top left, top right, bottom left, bottom right;
+    background-size: 20vw;
+      
+}
+p{
+    width: 50vw;
+    text-align: center;
+    color: lightcoral;
+    font-size: xx-large;
+}
